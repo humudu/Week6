@@ -11,6 +11,8 @@ namespace Week6KBU
         static void Main(string[] args)
         {
             Console.ReadLine();
+
+            Console.Read();
         }
     }
 }
